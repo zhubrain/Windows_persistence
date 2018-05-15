@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  AtBroker.cpp
+d:\mygit\windows_persistence\1. atbroker\atbroker\atbroker\atbroker.cpp(36): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+d:\mygit\windows_persistence\1. atbroker\atbroker\atbroker\atbroker.cpp(53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  AtBroker.vcxproj -> D:\MyGit\Windows_persistence\1. AtBroker\AtBroker\x64\Debug\AtBroker.exe
